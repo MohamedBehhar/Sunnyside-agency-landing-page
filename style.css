@@ -219,16 +219,20 @@ nav a:hover {
   padding: 3rem;
 }
 
-.text h2,
-.text p {
+.text h1{
   margin-bottom: 1rem;
+  color: rgb(36, 36, 36);
+  letter-spacing: 2px;
 }
 
 .text p {
+  margin-bottom: 1rem;
   font-weight: lighter;
+  color: var(--Very-dark-grayish-blue);
 }
 
 .text h4 {
+  color: black;
   width: fit-content;
   border-bottom: var(--Yellow) 2px solid;
   cursor: pointer;
