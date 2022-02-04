@@ -22,16 +22,16 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+- Desktop
 ![Desktop](./screen-shot/desktop.png)
 
+- Mobile
 ![Mobile](./screen-shot/mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-5rZBEs633)
-- Live Site URL: [Add live site URL here](https://mohamedbehhar.github.io/Sunnyside-agency-landing-page/#)
+- Live Site URL: [click-me](https://mohamedbehhar.github.io/Sunnyside-agency-landing-page/#)
 
 
 ### Built with
